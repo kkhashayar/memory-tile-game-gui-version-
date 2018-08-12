@@ -187,7 +187,7 @@ class Game(turtle.Turtle):
 
 #-- main function 
 def main():
-    #-- creating class object and calling some methods 
+    #-- creating class object and calling methods 
     game = Game()
     game.print_items()
     game.draw_colors()
